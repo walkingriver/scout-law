@@ -40,14 +40,10 @@ Alice's willingness to make tough calls, like reallocating key resources for fut
 
 Lastly, Alice demonstrated that bravery is not just about the leader; it's about inspiring bravery in your team. By standing unwaveringly committed to both the project and the team's well-being, she set a tone of courage that inspired her team to rise to the occasion.
 
-# Self-Reflection Questions
-
-To truly integrate bravery into your leadership style, consider these self-reflection questions:
+# Self Reflection
 
 1. Do you encourage open and honest communication in your team, especially when facing challenges?
 2. Are you open to ideas and solutions from all members of your team, regardless of their position?
 3. Do you make it a point to look for long-term solutions to problems, even under time constraints?
 4. How willing are you to make difficult decisions if you believe they are for the greater good?
 5. How do you inspire your team to act bravely, particularly when they're faced with adversity?
-
-By pondering these questions and applying the lessons learned from Alice's example, you can cultivate a culture of bravery in your workplace, helping your team face challenges head-on and encouraging innovation and growth.
