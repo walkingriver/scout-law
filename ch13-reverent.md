@@ -4,7 +4,7 @@ As the clock struck midnight, Alice sat alone in her office, staring at the fina
 
 The next morning, she called for a team meeting. The atmosphere was palpable; the collective sense of relief, tinged with the exhaustion of the previous months, was in the air.
 
-"Team, we did it," Alice began, her voice tinged with a reverence that immediately commanded everyone's attention. "But before we move on to the next challenge or dive into post-mortems, I want us to take a moment to reflect on this journey. Not just on what we've achieved but also on the people who helped us get here."
+"Congratulations, we did it," Alice began, her voice tinged with a reverence that immediately commanded everyone's attention. "But before we move on to the next challenge or dive into post-mortems, I want us to take a moment to reflect on this journey. Not just on what we've achieved but also on the people who helped us get here."
 
 Alice displayed a presentation with the faces of everyone on the team and key contributors from other departments who had chipped in during crunch times.
 

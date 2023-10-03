@@ -1,0 +1,15 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "never",
+        "requirePragma": false,
+        "singleQuote": false
+      }
+    }
+  ]
+}

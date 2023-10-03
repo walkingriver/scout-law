@@ -1,12 +1,8 @@
-# Chapter 2: Trustworthiness in Action
+# Trustworthiness
 
-> Trust is earned by keeping promises. Those you lead need to know that they can count on you to do what you say you will do.
+During the first week of the project, Alice found herself with a team that was talented but disconnected, a mosaic of individual skills that had thus far failed to form a complete picture. But as she had said at their first meeting, she was committed to embodying the twelve principles she'd outlined. The first of these was trustworthiness.
 
-Alice found herself with a team that was talented but disconnected, a mosaic of individual skills that somehow failed to form a complete picture. But as she had said at their first meeting, she was committed to embodying the twelve principles she'd outlined. The first of these was trustworthiness.
-
-## The Test
-
-During the second week, an internal issue arose. A potentially sensitive bug had been discovered in the codebase—one that, if not addressed promptly, could lead to a significant data breach. Alice was given the responsibility of overseeing the fix. To make matters more challenging, the team was cautioned not to share the information outside the group.
+During the second week, an internal issue arose. A potentially sensitive bug had been discovered in one of their dependent libraries that, if not addressed promptly, could lead to a significant data breach. Alice was given the responsibility of overseeing the fix. To make matters more challenging, the team was cautioned not to share the information outside the group.
 
 Alice immediately gathered her team in the conference room.
 
@@ -14,11 +10,7 @@ Alice immediately gathered her team in the conference room.
 
 She watched her team carefully, reading their faces for any signs of doubt or skepticism.
 
-## Keeping Promises
-
 As the team dispersed, Alice turned her attention to fixing the bug. Alongside her developers, she worked tirelessly to patch the vulnerability. When Marisa suggested an alternate solution, Alice gave her the time and support to test it. True to her word, Alice involved everyone, credited their contributions, and reported progress to senior management—always keeping sensitive details confidential, as she'd promised her team.
-
-## Admitting Mistakes
 
 During the debugging, Alice realized they had initially misunderstood the nature of the vulnerability. This changed the approach needed to fix it.
 
@@ -26,13 +18,11 @@ Gathering the team again, she was straightforward: "Our initial diagnosis was in
 
 Nobody groaned or rolled their eyes. They appreciated her candidness. Alice hadn't just told her team to be trustworthy; she had shown them what it meant.
 
-## The Outcome
-
 The bug was successfully fixed and, true to her word, Alice kept the issue confidential within the team. In a department meeting later that week, senior management commended the team for their swift action. There was no mention of who had discovered the bug or the nature of it; the accolades were shared among the whole team.
 
 Alice felt a sense of fulfillment. She'd earned her team's trust not by grand gestures but by the day-to-day act of being consistent, dependable, and honest.
 
-## Trustworthiness as Leadership
+---
 
 Trust is the cornerstone of any successful team. Alice proved herself trustworthy by not only tackling the issue head-on but also being transparent, reliable, and true to her promises. Her leadership embodied the qualities outlined in the first point of the Scout Law—trustworthiness.
 
@@ -40,9 +30,7 @@ In leadership, trustworthiness forms the bedrock on which all other attributes s
 
 As Stephen Covey aptly stated, "trustworthy leaders inspire action." Alice's leadership style was living proof that trustworthiness doesn't just make a leader more effective—it transforms individual talents into a cohesive, high-performing team. Trust is indeed the glue that holds a team together, and Alice's actions reinforced its pivotal role in leadership.
 
----
-
-### Self-Reflection
+# Self Reflection
 
 1. **Consistency in Action:** Think about a time when you had to keep a promise or maintain confidentiality in your team. Were you able to keep your word? How did that impact the team's perception of you?
 

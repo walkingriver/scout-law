@@ -12,11 +12,11 @@ Her voice carried a tone of unwavering determination, igniting a glimmer of hope
 
 Her message was clear: they would face this challenge by not only fixing the immediate problem but also by innovating their approach to development. It was risky given the time constraints, but it was a calculated risk Alice was willing to take.
 
-She noticed Jenny, one of the junior developers, hesitating to speak. Sensing her reticence, Alice encouraged her to voice her opinion. Jenny offered an unconventional debugging approach that was faster but less tried-and-tested.
+She noticed Mark, hesitating to speak. Sensing his reticence, Alice encouraged his to voice his opinion. Mark offered an unconventional debugging approach that was faster but less tried-and-tested.
 
-Alice smiled, "That's exactly the kind of thinking we need. Let's prototype it on a separate branch, and Jenny, you take the lead on that."
+Alice smiled, "That's exactly the kind of thinking we need. Let's prototype it on a separate branch, and Mark, you take the lead on that."
 
-By entrusting Jenny with this responsibility, Alice not only validated her idea but also nurtured a culture where even less-experienced team members felt empowered to challenge the status quo.
+By entrusting Mark with this responsibility, Alice not only validated his idea but also nurtured a culture where even less-experienced team members felt empowered to challenge the status quo.
 
 Alice also made a tough call to allocate two of her key resources to work on refining the deployment pipeline, ensuring that similar issues could be identified and dealt with more efficiently in the future.
 
@@ -32,7 +32,7 @@ In a professional setting, bravery doesn't always mean rushing into a burning bu
 
 Firstly, she was unafraid to confront and articulate the challenge at hand. Many leaders shy away from sharing bad news for fear of demotivating the team. However, transparency can build trust and a sense of shared purpose, essential ingredients for overcoming difficulties.
 
-Secondly, Alice promoted an environment where new ideas were not just welcomed but actively sought, including from junior team members like Jenny. This democratic approach fosters a sense of empowerment among team members and can often yield unconventional solutions that wouldn't arise in a more hierarchical structure.
+Secondly, Alice promoted an environment where new ideas were not just welcomed but actively sought, including from junior team members like Mark. This democratic approach fosters a sense of empowerment among team members and can often yield unconventional solutions that wouldn't arise in a more hierarchical structure.
 
 Next, her decision to focus not just on the immediate problem, but on long-term improvements, showcased the courage to go beyond the bare minimum. Alice knew that the bravery to innovate, even under deadlines, could lead to methods of work that are both effective and efficient in the long run.
 

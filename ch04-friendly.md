@@ -1,11 +1,5 @@
 # Friendly
 
-> We are friendly with our customers, coworkers, leaders, and everyone with whom we interact. We are welcoming to all, regardless of background or experience.
-
-Friendly leaders build strong relationships with their team members, customers, and stakeholders. By demonstrating warmth, empathy, and approachability, leaders can create a positive and productive work environment that fosters trust and cooperation.
-
----
-
 Alice looked at her watch and sighed. The company’s annual gala was about to start, and the cavernous ballroom was a whirlpool of tuxedos, ball gowns, and cocktail dresses. With hors d'oeuvres circulating and jazz music filling the air, it felt like a scene from a movie. A setting where networking was king and alliances were forged or broken over champagne toasts.
 
 As she adjusted the delicate fabric of her dress, Alice saw her team walk in. Some looked uncomfortable in their formal attire; others seemed excited for a night away from workstations and status boards. Regardless, she knew this was an opportunity to forge stronger bonds, not just among the team members, but with others in the organization.
@@ -28,7 +22,7 @@ In that moment, she remembered the third point she had written on the whiteboard
 
 ---
 
-#Friendliness in Leadership
+Friendly leaders build strong relationships with their team members, customers, and stakeholders. By demonstrating warmth, empathy, and approachability, leaders can create a positive and productive work environment that fosters trust and cooperation.
 
 Friendliness is often undervalued in the professional realm, perceived as a 'soft skill' that takes a backseat to technical prowess or business acumen. However, leaders like Alice demonstrate that friendliness is indeed a powerful leadership quality that can drive both individual and collective success.
 
@@ -40,7 +34,7 @@ Furthermore, a friendly disposition encourages inclusivity and diversity, which 
 
 Finally, friendliness impacts not just internal team dynamics but also external interactions with clients, stakeholders, and other departments. A leader who exudes friendliness sets the tone for their team, influencing how they engage with the broader organization and its goals. So, in the bigger picture, friendliness is not just a team-building tool, but a strategy for organizational success.
 
-## Self-Reflection Questions on Friendliness
+# Self Reflection
 
 1. **How approachable do you consider yourself to be?**
 
