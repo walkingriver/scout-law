@@ -36,7 +36,7 @@ Also, don’t underestimate the power of cross-collaboration. Borrowing team mem
 
 This experience serves as an excellent lesson for team leads and individual contributors alike. In difficult times, it's not just about saving money; it's about intelligently utilizing resources, increasing efficiency, and most importantly, pulling together as a team to weather the storm.
 
-# Self Reflection
+## Self Reflection
 
 1. What existing resources or assets can be repurposed to help meet your current objectives?
 

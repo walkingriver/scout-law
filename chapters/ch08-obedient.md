@@ -38,7 +38,7 @@ The attitude of the leader is crucial here. As a leader, taking a proactive appr
 
 Remember, obedience doesn't mean sacrificing the team's needs or giving up on innovation. Rather, it's a quality that can coexist with creativity, flexibility, and a concern for the team's well-being. It's about finding the most effective way to align the team's practices with the broader objectives of the organization, even when it's challenging to do so.
 
-# Self Reflection
+## Self Reflection
 
 1. How do I react when given a directive from higher-ups that I don't agree with?
 2. What steps can I take to ensure that following a mandate doesn't erode my team's morale?

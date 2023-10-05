@@ -44,7 +44,7 @@ In the same way, showing a bit of vulnerability can make a world of difference. 
 
 Remember, as a leader, you set the emotional barometer for your team. Make sure it's one that fosters resilience, positivity, and a collective spirit to overcome whatever hurdles lie in your path. By keeping a cheerful disposition, you're not just lifting your spirits, but you're elevating those of your entire team. And in doing so, you're laying the foundation for a resilient, effective, and happy team that can withstand the ups and downs that are part and parcel of any venture.
 
-# Self Reflection
+## Self Reflection
 
 1. How do you handle stressful situations, and what does your reaction communicate to your team? Are you setting a positive tone, or could your reaction be contributing to the team's stress?
 

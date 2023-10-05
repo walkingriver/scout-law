@@ -30,7 +30,7 @@ In leadership, trustworthiness forms the bedrock on which all other attributes s
 
 As Stephen Covey aptly stated, "trustworthy leaders inspire action." Alice's leadership style was living proof that trustworthiness doesn't just make a leader more effective—it transforms individual talents into a cohesive, high-performing team. Trust is indeed the glue that holds a team together, and Alice's actions reinforced its pivotal role in leadership.
 
-# Self Reflection
+## Self Reflection
 
 1. **Consistency in Action:** Think about a time when you had to keep a promise or maintain confidentiality in your team. Were you able to keep your word? How did that impact the team's perception of you?
 

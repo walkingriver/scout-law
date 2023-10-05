@@ -46,7 +46,7 @@ Leaders who truly embody helpfulness are those willing to do more than what thei
 
 To sum it up, being helpful is both an attribute and a guiding principle for effective leaders. It influences how they interact with team members, colleagues, and stakeholders. With a focus on the collective good and individual growth, leaders who practice helpfulness set the stage for a successful, united, and resilient team.
 
-# Self Reflection
+## Self Reflection
 
 To better understand how effectively you embody the attribute of helpfulness in your leadership role, it's beneficial to do some introspection. The following five questions focus specifically on this trait and will provide insights into where you excel and where there might be room for growth.
 

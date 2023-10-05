@@ -46,7 +46,7 @@ Environmental cleanliness encourages eco-friendly practices, such as minimizing 
 
 Neglecting cleanliness in these areas can lead to reduced productivity, strained relationships, and a negative work environment. In contrast, prioritizing cleanliness demonstrates professionalism and commitment to a positive workplace culture, resulting in improved morale, trust, and overall team excellence.
 
-# Self Reflection
+## Self Reflection
 
 1. Have you ever noticed how your code quality impacts the wider project or the work of your teammates? What about the inverse?
 2. How does the state of your physical and digital workspace affect your daily productivity? Have you considered its impact on your mental well-being?

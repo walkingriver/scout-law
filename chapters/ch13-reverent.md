@@ -34,7 +34,7 @@ Moreover, it goes beyond the confines of the office. It considers the impact of 
 
 In embracing these aspects of reverence, we open the door to a more compassionate, understanding, and ultimately more productive work environment. It may seem like a soft approach in a world that often prioritizes the bottom line, but as Alice and her team demonstrated, it's a paradigm that can yield both emotional and financial dividends.
 
-### Self Reflection
+## Self Reflection
 
 1. How do I currently show respect and appreciation to my team members, and how could I improve?
 2. How often do I acknowledge and celebrate the unseen emotional labor that goes into teamwork?

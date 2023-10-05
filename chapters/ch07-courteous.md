@@ -50,7 +50,7 @@ Courtesy isn't just important for leaders; it's crucial for team members as well
 
 So, it's worth taking a moment to self-reflect on how courtesy manifests in your daily work life. Consider times when stress may have caused you to be less than courteous and think about the ripple effects that may have had. Ask yourself how you can weave courteous actions more deeply into your leadership or teamwork style. Think about strategies to encourage politeness and respectful behavior throughout your team or organization. Finally, observe if there's a noticeable link between courteous behavior and other positive outcomes in your workplace. These reflections can serve as a roadmap to creating a culture where courtesy is a cornerstone.
 
-# Self Reflection
+## Self Reflection
 
 1. How do I handle stressful or challenging situations at work, and does my level of courtesy change during those times?
 

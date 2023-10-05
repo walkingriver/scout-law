@@ -40,7 +40,7 @@ Alice's willingness to make tough calls, like reallocating key resources for fut
 
 Lastly, Alice demonstrated that bravery is not just about the leader; it's about inspiring bravery in your team. By standing unwaveringly committed to both the project and the team's well-being, she set a tone of courage that inspired her team to rise to the occasion.
 
-# Self Reflection
+## Self Reflection
 
 1. Do you encourage open and honest communication in your team, especially when facing challenges?
 2. Are you open to ideas and solutions from all members of your team, regardless of their position?

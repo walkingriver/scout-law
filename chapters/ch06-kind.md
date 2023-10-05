@@ -38,7 +38,7 @@ In today's diverse workplace, leaders must ensure that every voice is heard and 
 
 When team members feel they belong and are working toward a shared goal, productivity and satisfaction soar. Leaders can cultivate this through open communication, team-building activities, and collective problem-solving.
 
-# Self Reflection
+## Self Reflection
 
 1. **How do you currently show empathy and understanding toward team members?** Can you recall a specific instance where this made a difference?
 

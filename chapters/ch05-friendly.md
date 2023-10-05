@@ -34,7 +34,7 @@ Furthermore, a friendly disposition encourages inclusivity and diversity, which 
 
 Finally, friendliness impacts not just internal team dynamics but also external interactions with clients, stakeholders, and other departments. A leader who exudes friendliness sets the tone for their team, influencing how they engage with the broader organization and its goals. So, in the bigger picture, friendliness is not just a team-building tool, but a strategy for organizational success.
 
-# Self Reflection
+## Self Reflection
 
 1. **How approachable do you consider yourself to be?**
 

@@ -10,6 +10,13 @@
         "requirePragma": false,
         "singleQuote": false
       }
+    },
+    {
+      "files": "package.json",
+      "options": {
+        "parser": "json",
+        "proseWrap": "preserve"
+      }
     }
   ]
 }
