@@ -7,6 +7,7 @@
   "description": "",
   "scripts": {
     "convert-epub": "pandoc -o ./output/$npm_package_name.epub  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
+    "convert-pdf": "pandoc -o ./output/$npm_package_name.pdf  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
     "convert-word": "pandoc -o ./output/$npm_package_name.docx  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
     "convert-kdp": "pandoc -o ./output/$npm_package_name.kdp.docx  title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md"
   },
