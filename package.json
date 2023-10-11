@@ -6,10 +6,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "split-md": "awk '/^# / { n++; } { if (n) print > (\"chapter-\" sprintf(\"%02d\", n-1) \".md\"); }' $1",
     "convert-epub": "pandoc -o ./output/$npm_package_name.epub  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
     "convert-pdf": "pandoc -o ./output/$npm_package_name.pdf  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
-    "convert-word": "pandoc -o ./output/$npm_package_name.docx  --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
-    "convert-kdp": "pandoc -o ./output/$npm_package_name.kdp.docx  title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md"
+    "convert-word": "pandoc -o ./output/$npm_package_name.docx --reference-doc=custom-reference.docx --toc --toc-depth=1 title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md",
+    "convert-kdp": "pandoc -o ./output/$npm_package_name.kdp.docx --reference-doc=custom-reference.docx title.yaml ./front-matter/*.md ./chapters/*.md ./back-matter/*.md"
   },
   "keywords": [],
   "license": "ISC"

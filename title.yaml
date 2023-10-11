@@ -10,4 +10,9 @@ creator:
 language: en-US
 rights: © 2023 Michael D. Callaghan, All Rights Reserved
 cover-image: images/cover.jpg
+date: \today
+header-includes: \usepackage[
+  text=DO NOT COPY
+  ]
+  {draftwatermark}
 ---
