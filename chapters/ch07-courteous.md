@@ -16,7 +16,7 @@ Roger barked out a laugh and replied, "Oh yeah! During my first year working her
 
 Alice decided to cut off the conversation before things got out of hand.
 
-She reminded everyone about the twelve attributes she'd written on the whiteboard on their first day together, and reminded the team to remain cheerful, no matter what.
+She reminded everyone about the twelve attributes she'd written on the whiteboard on their first day together, and reminded the team to remain courteous, no matter what.
 
 "Remember," she quoted one of her favorite authors, Elizabeth Kenny, "'He who angers you conquers you.' Don't let him get to you. If Greg raises his voice, lower yours. The more he frowns, the more we'll smile. If you prepare ahead of time, you may even find it's a fun game. I know I do."
 
@@ -26,7 +26,7 @@ With Alice's warning fresh in their minds, the team braced themselves for what w
 
 "I need to know what happened to the feature I promised my customers," Greg demanded, his voice rising with each word. "They were expecting it in the upcoming release, and now they're furious!"
 
-Alice, as she'd reminded her team, kept her composure and replied calmly and courteously, "Good morning, Greg. I understand your concern. Due to some budget cuts, we had to reprioritize certain features. Your feature is still a top priority, and it will be included in the next release, later this year."
+Alice, as she'd reminded her team, kept her composure and replied calmly and courteously, "Good morning, Greg. I understand your concern. We've recently received feedback from some other key customers, and they've expressed a strong demand for some additional features. Our business partners agree with them. Your feature is still a top priority, and it will be included in the next release, later this year."
 
 Greg wouldn't let it go, however. It didn't matter what other priorities the project had. His feature was the most important and should be included in the first release.
 
@@ -44,20 +44,42 @@ He grudgingly thanked them for their time and left. After he left the room, Alic
 
 ---
 
-Being courteous in the workplace has far-reaching implications that extend beyond mere pleasantries. When you're a leader who consistently displays courteous behavior, you're laying the foundation for trust within your team. This trust, once established, sets the stage for open and effective communication, making it easier to address issues and share ideas. Courtesy from a leader also sets a standard for respect, encouraging team members to treat one another in the same manner. Over time, this cultivates a collaborative atmosphere where people are more willing to work together. Additionally, being consistently courteous enhances your reputation within the organization, sending a message that you're not just a leader but also a person of character.
+Being courteous in the workplace has far-reaching implications that extend beyond mere pleasantries. Courtesy from a leader also sets a standard for respect, encouraging team members to treat one another in the same manner. Over time, this cultivates a collaborative atmosphere where people are more willing to work together. Additionally, being consistently courteous enhances your reputation within the organization, sending a message that you're not just a leader but also a person of character.
 
-Courtesy isn't just important for leaders; it's crucial for team members as well. When you're polite and considerate in your interactions, it opens the door for honest dialogue among colleagues. This open communication can strengthen the bonds between team members, making for a more cohesive unit. Courtesy also acts as a natural conflict reducer, helping to keep the team's morale high and creating a more pleasant working environment for everyone. On a personal level, courteous behavior makes you more approachable, which could lead to more opportunities for professional growth. Lastly, let's not overlook the simple fact that courteous environments generally make for more enjoyable workplaces, boosting job satisfaction for you and those around you.
+## Setting the Standard
 
-So, it's worth taking a moment to self-reflect on how courtesy manifests in your daily work life. Consider times when stress may have caused you to be less than courteous and think about the ripple effects that may have had. Ask yourself how you can weave courteous actions more deeply into your leadership or teamwork style. Think about strategies to encourage politeness and respectful behavior throughout your team or organization. Finally, observe if there's a noticeable link between courteous behavior and other positive outcomes in your workplace. These reflections can serve as a roadmap to creating a culture where courtesy is a cornerstone.
+Courtesy isn't just important for leaders; it's crucial for team members as well. When you're polite and considerate in your interactions, it opens the door for honest dialogue among colleagues. This open communication can strengthen the bonds between team members, making for a more cohesive unit. Courtesy also acts as a natural conflict reducer, helping to keep the team's morale high and creating a more pleasant working environment for everyone.
+
+## The Personal and Professional Impact
+
+On a personal level, courteous behavior makes you more approachable, which could lead to more opportunities for professional growth. Lastly, let's not overlook the simple fact that courteous environments generally make for more enjoyable workplaces, boosting job satisfaction for you and those around you.
+
+## Reflect and Act
+
+So, it's worth taking a moment to self-reflect on how courtesy manifests in your daily work life. Consider times when stress may have caused you to be less than courteous and think about the ripple effects that may have had. Ask yourself how you can weave courteous actions more deeply into your leadership or teamwork style.
+
+## Fostering a Culture of Courtesy
+
+Think about strategies to encourage politeness and respectful behavior throughout your team or organization. Finally, observe if there's a noticeable link between courteous behavior and other positive outcomes in your workplace. These reflections can serve as a roadmap to creating a culture where courtesy is a cornerstone.
 
 ## Self Reflection
 
-1. How do I handle stressful or challenging situations at work, and does my level of courtesy change during those times?
+1. **How do I handle stressful or challenging situations at work?**
 
-2. What specific actions can I take to integrate more courteous behavior into my daily interactions with team members and leaders?
+   - Does my level of courtesy change during those times?
 
-3. Are there any systems or strategies I can put in place within my team to encourage courteous behavior?
+2. **What specific actions can I take to integrate more courteous behavior into my daily interactions with team members?**
 
-4. Have I observed a correlation between increased levels of courtesy and other positive outcomes such as productivity, job satisfaction, or team cohesion?
+   - What about with my leaders?
 
-5. How often do I acknowledge and appreciate the courteous actions of others, and how could doing so more frequently contribute to a positive work environment?
+3. **Are there any systems or strategies I can put in place within my team to encourage courteous behavior?**
+
+   - List some specific ideas.
+
+4. **Have I observed a correlation between increased levels of courtesy and other positive outcomes such as productivity, job satisfaction, or team cohesion?**
+
+   - If not, what can I do to improve?
+
+5. **How often do I acknowledge and appreciate the courteous actions of others?**
+
+   - How could doing so more frequently contribute to a positive work environment?

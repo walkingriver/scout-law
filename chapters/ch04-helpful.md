@@ -48,8 +48,6 @@ To sum it up, being helpful is both an attribute and a guiding principle for eff
 
 ## Self Reflection
 
-To better understand how effectively you embody the attribute of helpfulness in your leadership role, it's beneficial to do some introspection. The following five questions focus specifically on this trait and will provide insights into where you excel and where there might be room for growth.
-
 1. **Do you proactively identify team members' needs and challenges?**
 
    - Are you ahead of the curve in recognizing areas where you can offer your help, rather than waiting for problems to arise?
@@ -67,6 +65,5 @@ To better understand how effectively you embody the attribute of helpfulness in 
    - How do you encourage open dialogue and cooperation within your team, ensuring that everyone's contributions are valued?
 
 5. **Are you willing to go above and beyond your job description to be helpful?**
-   - How often do you take on additional tasks or responsibilities to support your team during challenging times?
 
-Answering these questions can give you a clearer picture of how well you're applying the trait of helpfulness in your leadership style. Use this as a foundation to refine your approach and become a more helpful and effective leader.
+   - How often do you take on additional tasks or responsibilities to support your team during challenging times?

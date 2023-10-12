@@ -1,6 +1,4 @@
-# Thrifty (Alternate)
-
-_Note: I'm trying to decide between two versions of this chapter._
+# Thrifty
 
 As with most companies, the one thing you can always count on is to be faced with unexpected challenges. Budget cuts seem to be inevitable, particularly when the economy takes a downturn. While the team had admirably maintained their cheerfulness in the face of recent setbacks, the ripple effect of losing a key customer, along with the impending revenue reduction it entailed, could be felt throughout the entire company.
 
@@ -42,22 +40,40 @@ Alice knew the real heroes were her team members. In teaching them about thrifti
 
 Navigating through financial constraints is something almost every team will face at some point, and Alice's story is an instructive example of how to adapt. Instead of seeing budget cuts as a death knell, consider them a prompt to evaluate the resources you already have. It’s easy to forget the wealth of assets you've accumulated over time, like code libraries, design templates, or even skill sets within your team that haven’t been tapped into lately.
 
+## A Mindset Shift
+
 When the threat of layoffs looms large, the natural instinct might be to work harder, put in more hours, or simply cut corners. However, as Alice demonstrated, a more effective and sustainable approach is to leverage what’s already available. Engage your team in identifying reusable assets or alternate routes to achieving the same objectives. There's also a side benefit to this approach: a renewed sense of ownership and engagement among team members. When people feel they're part of the solution, their commitment to the project and the team deepens.
+
+## Cross-Collaboration: A Hidden Gem
 
 Also, don’t underestimate the power of cross-collaboration. Borrowing team members from other departments, even temporarily, can provide fresh perspectives and may accelerate a project. New faces can rejuvenate a team stuck in a rut, and their unique skill sets might be just what you need to solve a particularly tricky problem.
 
-When working with software, don't overlook the possibility of leveraging existing community-drive or other open-source software. If you do that, however, make sure to contribute something back, either in the form of enhancements or possibly even cash donations to the project.
+## Embracing Open Source
+
+When working with software, don't overlook the possibility of leveraging existing community-driven or other open-source software. If you do that, however, make sure to contribute something back, either in the form of enhancements or possibly even cash donations to the project.
+
+## Thriftiness as Team Building
 
 This experience serves as an excellent lesson for team leads and individual contributors alike. In difficult times, it's not just about saving money; it's about intelligently utilizing resources, increasing efficiency, and most importantly, pulling together as a team to weather the storm.
 
 ## Self Reflection
 
-1. What existing resources or assets can be repurposed to help meet your current objectives?
+1. **What existing resources or assets can be repurposed to help meet your current objectives?**
 
-2. How often do you engage your team in budget or resource-related decisions? Would more involvement increase their sense of ownership?
+   - Have you considered using open-source software in your own projects?
 
-3. Can you think of a situation where being thrifty compromised quality? How could it have been avoided?
+2. **How often do you engage your team in budget or resource-related decisions?**
 
-4. Are there avenues for cross-departmental collaboration that you haven't explored? What might they be?
+   - Would more involvement increase their sense of ownership?
 
-5. When faced with financial constraints, what's your default action plan? How could you adjust this plan to focus more on thriftiness without sacrificing quality?
+3. **Can you think of a situation where being thrifty compromised quality?**
+
+   - How could it have been avoided?
+
+4. **Are there avenues for cross-departmental collaboration that you haven't explored?**
+
+   - What might they be?
+
+5. **When faced with financial constraints, what's your default action plan?**
+
+   - How could you adjust this plan to focus more on thriftiness without sacrificing quality?

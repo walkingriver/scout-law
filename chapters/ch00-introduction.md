@@ -38,6 +38,6 @@ Both chuckled at the metaphor. Alice felt her confidence swell, knowing she had 
 
 Alice hung up, her eyes falling once again on the Scout Handbook. She was ready to lead her team into the corporate wilderness, armed with age-old principles that had stood the test of time. She wasn't just managing coders, designers, and strategists; she was guiding people, each with their challenges, strengths, and quirks. And for that, she had the best training ground a leader could ask for.
 
-As she turned her attention to the tasks ahead, Alice knew she was embarking on an exciting journey. It was a new challenge, a different terrain, but the compass by which she would navigate remained the same. The Scout Law had served her well on trails and camping trips, and now it would guide her through boardrooms and team meetings.
+As she turned her attention to the tasks ahead, Alice knew she was embarking on an exciting journey. It was a new challenge, a different terrain, but the compass by which she would navigate remained the same. The Scout Law had served her well on trails and camping trips, and now it would guide her through conference rooms and team meetings.
 
 With a deep breath, she opened her laptop and began to outline her strategy. It was time to show her team that leadership—the Scout's way—could bring them not just to the end of a project, but to the beginning of a new understanding of what it means to be a team, a colleague, and a leader.

@@ -1,4 +1,4 @@
-## Brave
+# Brave
 
 Alice stared at her monitor, her eyes narrowing at the error messages that sprawled across the screen like an unwelcome graffiti tag on a pristine wall. The development server had crashed again, and the logs hinted at a critical bug in the system. The delivery date was just a week away, and they could not afford any delays. The team had been pulling long hours already, and Alice felt the weight of their collective exhaustion.
 
@@ -12,7 +12,7 @@ Her voice carried a tone of unwavering determination, igniting a glimmer of hope
 
 Her message was clear: they would face this challenge by not only fixing the immediate problem but also by innovating their approach to development. It was risky given the time constraints, but it was a calculated risk Alice was willing to take.
 
-She noticed Mark, hesitating to speak. Sensing his reticence, Alice encouraged his to voice his opinion. Mark offered an unconventional debugging approach that was faster but less tried-and-tested.
+She noticed Mark, hesitating to speak. Sensing his reticence, Alice encouraged him to voice his opinion. Mark offered an unconventional debugging approach that was faster but less tried-and-tested.
 
 Alice smiled, "That's exactly the kind of thinking we need. Let's prototype it on a separate branch, and Mark, you take the lead on that."
 
@@ -30,20 +30,35 @@ In that critical moment, Alice had embodied the essence of bravery. She had rall
 
 In a professional setting, bravery doesn't always mean rushing into a burning building or taking a life-altering leap of faith. More often, it manifests in everyday decisions that shape the trajectory of projects and the morale of teams. Alice's leadership offered several key takeaways for embodying bravery in the workplace.
 
+## Confronting Challenges Head-On
+
 Firstly, she was unafraid to confront and articulate the challenge at hand. Many leaders shy away from sharing bad news for fear of demotivating the team. However, transparency can build trust and a sense of shared purpose, essential ingredients for overcoming difficulties.
+
+## Fostering a Culture of Innovation
 
 Secondly, Alice promoted an environment where new ideas were not just welcomed but actively sought, including from junior team members like Mark. This democratic approach fosters a sense of empowerment among team members and can often yield unconventional solutions that wouldn't arise in a more hierarchical structure.
 
+## Pursuing Long-Term Improvements
+
 Next, her decision to focus not just on the immediate problem, but on long-term improvements, showcased the courage to go beyond the bare minimum. Alice knew that the bravery to innovate, even under deadlines, could lead to methods of work that are both effective and efficient in the long run.
 
-Alice's willingness to make tough calls, like reallocating key resources for future benefits, exemplified bravery in decision-making. Sometimes the hardest thing to do is to take calculated risks that might not pay off immediately but have the potential for greater future gains.
+## Making Tough Decisions
+
+Alice's willingness to make tough calls, like reallocating key personnel for future benefits, exemplified bravery in decision-making. Sometimes the hardest thing to do is to take calculated risks that might not pay off immediately but have the potential for greater future gains.
+
+## Inspiring Bravery in Others
 
 Lastly, Alice demonstrated that bravery is not just about the leader; it's about inspiring bravery in your team. By standing unwaveringly committed to both the project and the team's well-being, she set a tone of courage that inspired her team to rise to the occasion.
 
 ## Self Reflection
 
-1. Do you encourage open and honest communication in your team, especially when facing challenges?
-2. Are you open to ideas and solutions from all members of your team, regardless of their position?
-3. Do you make it a point to look for long-term solutions to problems, even under time constraints?
-4. How willing are you to make difficult decisions if you believe they are for the greater good?
-5. How do you inspire your team to act bravely, particularly when they're faced with adversity?
+1. **Do you encourage open and honest communication in your team?**
+   - What about when facing challenges?
+2. **Are you open to ideas and solutions from all members of your team?**
+   - Even regardless of their position?
+3. **Do you make it a point to look for long-term solutions to problems?**
+   - Even under time constraints?
+4. **How willing are you to make difficult decisions if you believe they are for the greater good?**
+   - What if you don't believe it?
+5. **How do you inspire your team to act bravely when conflicts arise?**
+   - What about when they're faced with adversity?
