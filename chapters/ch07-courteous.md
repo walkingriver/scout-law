@@ -64,22 +64,22 @@ Think about strategies to encourage politeness and respectful behavior throughou
 
 ## Self Reflection
 
-1. **How do I handle stressful or challenging situations at work?**
+**1. How do I handle stressful or challenging situations at work?**
 
-   - Does my level of courtesy change during those times?
+- Does my level of courtesy change during those times?
 
-2. **What specific actions can I take to integrate more courteous behavior into my daily interactions with team members?**
+**2. What specific actions can I take to integrate more courteous behavior into my daily interactions with team members?**
 
-   - What about with my leaders?
+- What about with my leaders?
 
-3. **Are there any systems or strategies I can put in place within my team to encourage courteous behavior?**
+**3. Are there any systems or strategies I can put in place within my team to encourage courteous behavior?**
 
-   - List some specific ideas.
+- List some specific ideas.
 
-4. **Have I observed a correlation between increased levels of courtesy and other positive outcomes such as productivity, job satisfaction, or team cohesion?**
+**4. Have I observed a correlation between increased levels of courtesy and other positive outcomes such as productivity, job satisfaction, or team cohesion?**
 
-   - If not, what can I do to improve?
+- If not, what can I do to improve?
 
-5. **How often do I acknowledge and appreciate the courteous actions of others?**
+**5. How often do I acknowledge and appreciate the courteous actions of others?**
 
-   - How could doing so more frequently contribute to a positive work environment?
+- How could doing so more frequently contribute to a positive work environment?

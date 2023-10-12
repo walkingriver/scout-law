@@ -36,21 +36,22 @@ Open Source Software is a testament to the power of collaboration and the democr
 
 ## Self Reflection
 
-1. **How has open source software impacted your work or projects?**
+**1. How has open source software impacted your work or projects?**
 
-   - What benefits have you experienced from using OSS
+- What benefits have you experienced from using OSS
 
-2. **In what ways have you contributed to open source projects, if at all?**
+**2. In what ways have you contributed to open source projects, if at all?**
 
-   - What types of contributions align with your skills and interests
+- What types of contributions align with your skills and interests
 
-3. **Reflect on the importance of reciprocity in open source.**
+**3. Reflect on the importance of reciprocity in open source.**
 
-   - How do you feel about the ethical responsibility to give back to the OSS community
+- How do you feel about the ethical responsibility to give back to the OSS community
 
-4. **Consider the long-term sustainability of the OSS projects you rely on.**
+**4. Consider the long-term sustainability of the OSS projects you rely on.**
 
-   - How can your contributions, whether in code, documentation, or support, help ensure the continued availability of these resources
+- How can your contributions, whether in code, documentation, or support, help ensure the continued availability of these resources
 
-5. **Think about the global community aspect of open source.**
-   - How has your involvement in OSS broadened your perspectives and allowed you to collaborate with individuals from diverse backgrounds\*
+**5. Think about the global community aspect of open source.**
+
+- How has your involvement in OSS broadened your perspectives and allowed you to collaborate with individuals from diverse backgrounds\*

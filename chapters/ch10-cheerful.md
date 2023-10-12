@@ -62,22 +62,22 @@ Remember, as a leader, you set the emotional barometer for your team. Make sure 
 
 ## Self Reflection
 
-1. **How do you handle stressful situations, and what does your reaction communicate to your team?**
+**1. How do you handle stressful situations, and what does your reaction communicate to your team?**
 
-   - Are you setting a positive tone, or could your reaction be contributing to the team's stress?
+- Are you setting a positive tone, or could your reaction be contributing to the team's stress?
 
-2. **Do you find it challenging to stay optimistic when facing setbacks?**
+**2. Do you find it challenging to stay optimistic when facing setbacks?**
 
-   - What strategies could you adopt to maintain a more positive outlook during these times?
+- What strategies could you adopt to maintain a more positive outlook during these times?
 
-3. **How often do you celebrate small wins, either your own or those of your team?**
+**3. How often do you celebrate small wins, either your own or those of your team?**
 
-   - Could incorporating more acknowledgment of these smaller victories help improve the overall team morale?
+- Could incorporating more acknowledgment of these smaller victories help improve the overall team morale?
 
-4. **Are you approachable as a leader?**
+**4. Are you approachable as a leader?**
 
-   - Would team members feel comfortable sharing their concerns and challenges with you, and how might your demeanor be influencing this?
+- Would team members feel comfortable sharing their concerns and challenges with you, and how might your demeanor be influencing this?
 
-5. **Have you noticed any team members who consistently display negativity?**
+**5. Have you noticed any team members who consistently display negativity?**
 
-   - How might you help steer them toward a more positive attitude without coming across as dismissive of their concerns?
+- How might you help steer them toward a more positive attitude without coming across as dismissive of their concerns?

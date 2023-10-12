@@ -46,20 +46,20 @@ In embracing these aspects of reverence, we open the door to a more compassionat
 
 **1. How do I currently show respect and appreciation to my team members, and how could I improve?**
 
-    - Do I actively listen to their ideas and concerns?
+- Do I actively listen to their ideas and concerns?
 
 **2. How often do I acknowledge and celebrate the unseen emotional labor that goes into teamwork?**
 
-    - Am I conscious of the emotional aspects of work, and do I recognize their efforts?
+- Am I conscious of the emotional aspects of work, and do I recognize their efforts?
 
 **3. Do I take the time to reflect on the ethical implications of my decisions at work?**
 
-    - How can I ensure that my decisions align with my values and ethical principles?
+- How can I ensure that my decisions align with my values and ethical principles?
 
 **4. How do I maintain a sense of reverence or respect for myself, particularly during stressful projects?**
 
-    - What self-care practices can I incorporate to maintain self-respect and resilience?
+- What self-care practices can I incorporate to maintain self-respect and resilience?
 
 **5. What steps can I take to instill a sense of purpose and meaning within my team, beyond just completing tasks or projects?**
 
-    - How can I inspire a deeper sense of purpose and fulfillment in our work together?
+- How can I inspire a deeper sense of purpose and fulfillment in our work together?

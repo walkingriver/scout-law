@@ -48,25 +48,26 @@ Stephen Covey once aptly stated, "trustworthy leaders inspire action." Alice's l
 
 ## Self Reflection
 
-1. **Think about a time when you had to keep a promise or maintain confidentiality in your team.**
+**1. Think about a time when you had to keep a promise or maintain confidentiality in your team.**
 
-   - Were you able to keep your word?
-   - How did that impact the team's perception of you?
+- Were you able to keep your word?
+- How did that impact the team's perception of you?
 
-2. **Recall an instance where you made a mistake in your leadership role.**
+**2. Recall an instance where you made a mistake in your leadership role.**
 
-   - How did you handle it?
-   - Were you transparent about it with your team, and what was the outcome?
+- How did you handle it?
+- Were you transparent about it with your team, and what was the outcome?
 
-3. **On a scale of 1 to 10, how reliable do you think your team finds you?**
+**3. On a scale of 1 to 10, how reliable do you think your team finds you?**
 
-   - Is there a gap between how trustworthy you believe you are and how your team perceives you?
-   - What steps could you take to close that gap?
+- Is there a gap between how trustworthy you believe you are and how your team perceives you?
+- What steps could you take to close that gap?
 
-4. **How open are you to receiving honest feedback from your team?**
+**4. How open are you to receiving honest feedback from your team?**
 
-   - Do you think your level of trustworthiness encourages or discourages open communication?
+- Do you think your level of trustworthiness encourages or discourages open communication?
 
-5. **Can you identify leaders in your life or career who have exemplified trustworthiness?**
-   - What specific behaviors made them trustworthy?
-   - How can you incorporate those traits into your own leadership style?
+**5. Can you identify leaders in your life or career who have exemplified trustworthiness?**
+
+- What specific behaviors made them trustworthy?
+- How can you incorporate those traits into your own leadership style?

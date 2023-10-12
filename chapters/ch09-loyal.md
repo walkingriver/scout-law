@@ -68,20 +68,25 @@ In conclusion, loyalty is a multi-faceted virtue that impacts our personal well-
 
 ## Self Reflection
 
-1. **What are my core values and career objectives, and how do they align with my current role and responsibilities?**
-   - How can I better align my core values and career objectives with my current role?
-   
-2. **When faced with a decision that pits personal gain against the well-being of my team, what factors do I consider, and how do I prioritize them?**
-   - In what ways can I improve my decision-making process in such situations?
-   
-3. **How do I ensure that my team members feel supported and valued, and what actions have I taken to cultivate trust within the team?**
-   - What additional steps can I take to enhance the sense of support and value within my team?
-   
-4. **Am I actively contributing to the success of my company, and how do my daily actions and decisions align with the organization's mission and goals?**
-   - What specific actions or changes can I implement to further contribute to my company's success?
-   
-5. **How do I handle conflicts between my loyalty to my team and my loyalty to my company, and what strategies do I employ to find a balanced solution?**
-   - How can I refine my conflict resolution strategies to ensure a more balanced approach in such situations?
+**1. What are my core values and career objectives, and how do they align with my current role and responsibilities?**
+
+- How can I better align my core values and career objectives with my current role?
+
+**2. When faced with a decision that pits personal gain against the well-being of my team, what factors do I consider, and how do I prioritize them?**
+
+- In what ways can I improve my decision-making process in such situations?
+
+**3. How do I ensure that my team members feel supported and valued, and what actions have I taken to cultivate trust within the team?**
+
+- What additional steps can I take to enhance the sense of support and value within my team?
+
+**4. Am I actively contributing to the success of my company, and how do my daily actions and decisions align with the organization's mission and goals?**
+
+- What specific actions or changes can I implement to further contribute to my company's success?
+
+**5. How do I handle conflicts between my loyalty to my team and my loyalty to my company, and what strategies do I employ to find a balanced solution?**
+
+- How can I refine my conflict resolution strategies to ensure a more balanced approach in such situations?
 
 ## A Note about Loyalty from the Company to the Individual
 

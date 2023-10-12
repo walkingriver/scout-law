@@ -52,13 +52,22 @@ Lastly, Alice demonstrated that bravery is not just about the leader; it's about
 
 ## Self Reflection
 
-1. **Do you encourage open and honest communication in your team?**
-   - What about when facing challenges?
-2. **Are you open to ideas and solutions from all members of your team?**
-   - Even regardless of their position?
-3. **Do you make it a point to look for long-term solutions to problems?**
-   - Even under time constraints?
-4. **How willing are you to make difficult decisions if you believe they are for the greater good?**
-   - What if you don't believe it?
-5. **How do you inspire your team to act bravely when conflicts arise?**
-   - What about when they're faced with adversity?
+**1. Do you encourage open and honest communication in your team?**
+
+- What about when facing challenges?
+
+**2. Are you open to ideas and solutions from all members of your team?**
+
+- Even regardless of their position?
+
+**3. Do you make it a point to look for long-term solutions to problems?**
+
+- Even under time constraints?
+
+**4. How willing are you to make difficult decisions if you believe they are for the greater good?**
+
+- What if you don't believe it?
+
+**5. How do you inspire your team to act bravely when conflicts arise?**
+
+- What about when they're faced with adversity?

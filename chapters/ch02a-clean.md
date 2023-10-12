@@ -58,21 +58,22 @@ Neglecting cleanliness in these areas can lead to reduced productivity, strained
 
 ## Self Reflection
 
-1. **Have you ever noticed how your code quality impacts the wider project or the work of your teammates?**
+**1. Have you ever noticed how your code quality impacts the wider project or the work of your teammates?**
 
-   - What about the inverse?
+- What about the inverse?
 
-2. **How does the state of your physical and digital workspace affect your daily productivity?**
+**2. How does the state of your physical and digital workspace affect your daily productivity?**
 
-   - Have you considered its impact on your mental well-being?
+- Have you considered its impact on your mental well-being?
 
-3. **Do you think your personal grooming habits contribute to the overall work environment?**
+**3. Do you think your personal grooming habits contribute to the overall work environment?**
 
-   - In what ways?
+- In what ways?
 
-4. **Have you ever considered that your attire sends a message not just about you, but also about your respect for your colleagues and the organization?**
+**4. Have you ever considered that your attire sends a message not just about you, but also about your respect for your colleagues and the organization?**
 
-   - What could you do to improve your appearance, even just a little?
+- What could you do to improve your appearance, even just a little?
 
-5. **How often do you think about the language you use in a professional setting?**
-   - Have you ever noticed how it affects your interpersonal relationships and team dynamics?
+**5. How often do you think about the language you use in a professional setting?**
+
+- Have you ever noticed how it affects your interpersonal relationships and team dynamics?

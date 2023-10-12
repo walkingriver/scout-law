@@ -58,22 +58,22 @@ This experience serves as an excellent lesson for team leads and individual cont
 
 ## Self Reflection
 
-1. **What existing resources or assets can be repurposed to help meet your current objectives?**
+**1. What existing resources or assets can be repurposed to help meet your current objectives?**
 
-   - Have you considered using open-source software in your own projects?
+- Have you considered using open-source software in your own projects?
 
-2. **How often do you engage your team in budget or resource-related decisions?**
+**2. How often do you engage your team in budget or resource-related decisions?**
 
-   - Would more involvement increase their sense of ownership?
+- Would more involvement increase their sense of ownership?
 
-3. **Can you think of a situation where being thrifty compromised quality?**
+**3. Can you think of a situation where being thrifty compromised quality?**
 
-   - How could it have been avoided?
+- How could it have been avoided?
 
-4. **Are there avenues for cross-departmental collaboration that you haven't explored?**
+**4. Are there avenues for cross-departmental collaboration that you haven't explored?**
 
-   - What might they be?
+- What might they be?
 
-5. **When faced with financial constraints, what's your default action plan?**
+**5. When faced with financial constraints, what's your default action plan?**
 
-   - How could you adjust this plan to focus more on thriftiness without sacrificing quality?
+- How could you adjust this plan to focus more on thriftiness without sacrificing quality?

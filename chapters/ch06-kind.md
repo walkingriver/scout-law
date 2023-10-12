@@ -50,22 +50,22 @@ When team members feel they belong and are working toward a shared goal, product
 
 ## Self Reflection
 
-1. **How do you currently show empathy and understanding toward team members?**
+**1. How do you currently show empathy and understanding toward team members?**
 
-   - Can you recall a specific instance where this made a difference?
+- Can you recall a specific instance where this made a difference?
 
-2. **What strategies do you employ to celebrate team achievements?**
+**2. What strategies do you employ to celebrate team achievements?**
 
-   - Are these recognitions public, and do they motivate the team?
+- Are these recognitions public, and do they motivate the team?
 
-3. **Think of a challenging period for your team. How did you offer support?**
+**3. Think of a challenging period for your team. How did you offer support?**
 
-   - Was it effective in fostering resilience?
+- Was it effective in fostering resilience?
 
-4. **What steps have you taken to promote inclusivity within your team?**
+**4. What steps have you taken to promote inclusivity within your team?**
 
-   - Are there voices that still need to be better heard?
+- Are there voices that still need to be better heard?
 
-5. **Do you feel your team has a strong sense of community and belonging?** 
+**5. Do you feel your team has a strong sense of community and belonging?**
 
-    - What actions have you taken to foster this, and what could you do better?
+- What actions have you taken to foster this, and what could you do better?

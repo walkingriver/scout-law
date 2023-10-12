@@ -48,22 +48,22 @@ To sum it up, being helpful is both an attribute and a guiding principle for eff
 
 ## Self Reflection
 
-1. **Do you proactively identify team members' needs and challenges?**
+**1 .Do you proactively identify team members' needs and challenges?**
 
-   - Are you ahead of the curve in recognizing areas where you can offer your help, rather than waiting for problems to arise?
+- Are you ahead of the curve in recognizing areas where you can offer your help, rather than waiting for problems to arise?
 
-2. **How often do you provide constructive feedback aimed at growth?**
+**2 .How often do you provide constructive feedback aimed at growth?**
 
-   - Is your feedback tailored to help team members improve specific skills or address challenges they're facing?
+- Is your feedback tailored to help team members improve specific skills or address challenges they're facing?
 
-3. **Do you actively encourage and support professional development?**
+**3 .Do you actively encourage and support professional development?**
 
-   - What steps have you taken to create a learning-friendly environment where team members can grow and excel?
+- What steps have you taken to create a learning-friendly environment where team members can grow and excel?
 
-4. **Do you prioritize collaboration and teamwork?**
+**4 .Do you prioritize collaboration and teamwork?**
 
-   - How do you encourage open dialogue and cooperation within your team, ensuring that everyone's contributions are valued?
+- How do you encourage open dialogue and cooperation within your team, ensuring that everyone's contributions are valued?
 
-5. **Are you willing to go above and beyond your job description to be helpful?**
+**5 .Are you willing to go above and beyond your job description to be helpful?**
 
-   - How often do you take on additional tasks or responsibilities to support your team during challenging times?
+- How often do you take on additional tasks or responsibilities to support your team during challenging times?

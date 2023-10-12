@@ -46,21 +46,22 @@ Finally, friendliness impacts not just internal team dynamics but also external 
 
 ## Self Reflection
 
-1. **How approachable do you consider yourself to be?**
+**1. How approachable do you consider yourself to be?**
 
-   - Consider how you interact with team members, especially those who may be more introverted or less familiar with you.
+- Consider how you interact with team members, especially those who may be more introverted or less familiar with you.
 
-2. **When was the last time you actively facilitated team interactions?**
+**2. When was the last time you actively facilitated team interactions?**
 
-   - Think about moments where you've gone out of your way to make team members feel included or bridge gaps between different departments.
+- Think about moments where you've gone out of your way to make team members feel included or bridge gaps between different departments.
 
-3. **Do you engage with team members beyond work-related topics?**
+**3. Do you engage with team members beyond work-related topics?**
 
-   - Assess how often you inquire about their well-being, interests, or challenges outside of the workplace, and consider how this contributes to building genuine relationships.
+- Assess how often you inquire about their well-being, interests, or challenges outside of the workplace, and consider how this contributes to building genuine relationships.
 
-4. **How do you handle differences within the team?**
+**4. How do you handle differences within the team?**
 
-   - Reflect on whether you're welcoming to all team members, regardless of their background, skills, or viewpoints.
+- Reflect on whether you're welcoming to all team members, regardless of their background, skills, or viewpoints.
 
-5. **Are your networking efforts solely transactional or aimed at building meaningful relationships?**
-   - Evaluate your motives in networking settings. Are you looking to just get something in return, or do you genuinely want to know and help the other person?
+**5. Are your networking efforts solely transactional or aimed at building meaningful relationships?**
+
+- Evaluate your motives in networking settings. Are you looking to just get something in return, or do you genuinely want to know and help the other person?

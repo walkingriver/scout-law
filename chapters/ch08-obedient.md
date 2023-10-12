@@ -62,19 +62,22 @@ Remember, obedience doesn't mean sacrificing the team's needs or giving up on in
 
 ## Self Reflection
 
-1. **How do I react when given a directive from higher-ups that I don't agree with?**
+**1. How do I react when given a directive from higher-ups that I don't agree with?**
 
-   - Am I open to understanding the reasoning behind the directive, even if I initially disagree?
+- Am I open to understanding the reasoning behind the directive, even if I initially disagree?
 
-2. **What steps can I take to ensure that following a mandate doesn't erode my team's morale?**
-   - Do I actively involve my team in discussions about the directive and its implications?
-3. **Have I considered how obeying a directive can be an opportunity for growth, both personally and as a team?**
+**2. What steps can I take to ensure that following a mandate doesn't erode my team's morale?**
 
-   - Am I willing to explore innovative approaches or adapt existing processes when obeying a directive, even if it's challenging?
+- Do I actively involve my team in discussions about the directive and its implications?
 
-4. **Do I communicate clearly with my team when new directives come in, and do I involve them in the process of adaptation?**
+**3. Have I considered how obeying a directive can be an opportunity for growth, both personally and as a team?**
 
-   - Have I created an environment where my team feels comfortable sharing their concerns and suggestions regarding the directive?
+- Am I willing to explore innovative approaches or adapt existing processes when obeying a directive, even if it's challenging?
 
-5. **How can I balance the act of obedience with the need for team autonomy and happiness?**
-   - Do I actively seek ways to align the directive's implementation with my team's values and well-being?
+**4. Do I communicate clearly with my team when new directives come in, and do I involve them in the process of adaptation?**
+
+- Have I created an environment where my team feels comfortable sharing their concerns and suggestions regarding the directive?
+
+**5. How can I balance the act of obedience with the need for team autonomy and happiness?**
+
+- Do I actively seek ways to align the directive's implementation with my team's values and well-being?
